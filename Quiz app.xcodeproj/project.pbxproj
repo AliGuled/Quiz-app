@@ -57,11 +57,19 @@
 				D631D2A621EE3A7800308921 /* AppDelegate.swift */,
 				D631D2A821EE3A7800308921 /* ViewController.swift */,
 				D631D2AA21EE3A7800308921 /* Main.storyboard */,
-				D631D2AD21EE3A7A00308921 /* Assets.xcassets */,
-				D631D2AF21EE3A7A00308921 /* LaunchScreen.storyboard */,
+				D631D2B821EE3AAB00308921 /* Supporting Flies */,
 				D631D2B221EE3A7A00308921 /* Info.plist */,
 			);
 			path = "Quiz app";
+			sourceTree = "<group>";
+		};
+		D631D2B821EE3AAB00308921 /* Supporting Flies */ = {
+			isa = PBXGroup;
+			children = (
+				D631D2AD21EE3A7A00308921 /* Assets.xcassets */,
+				D631D2AF21EE3A7A00308921 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Flies";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
